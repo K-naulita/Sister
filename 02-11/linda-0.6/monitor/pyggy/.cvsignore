@@ -1,0 +1,14 @@
+*.pyc
+*-psyco
+*-prof
+*.png
+workspace
+stats.txt
+*.prof
+dist
+build
+MANIFEST
+pyggy-0.4.1/
+pyg_monitor_gramtab.py
+pyg_monitor_lextab.py
+
