@@ -1,8 +1,0 @@
-*.pyc 
-*-psyco
-*-prof
-*.png
-workspace
-stats.txt
-*.prof
-mandelbrot
