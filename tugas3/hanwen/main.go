@@ -1,4 +1,4 @@
-package main
+git add "tugas3"package main
 
 import (
 	"bufio"
